@@ -1,0 +1,6 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "yaml.schemas": {
+    "https://json.schemastore.org/bukkit-plugin.json": "file:///c%3A/Users/alexa/Desktop/spigotplugin/demo/demo/src/main/resources/plugin.yml"
+  }
+}

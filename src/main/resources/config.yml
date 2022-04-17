@@ -1,0 +1,39 @@
+# The maximum amount of times a throwable can bounce
+maxBounceCount: 3
+
+# If throwables should bounce off the floor
+bouncesOffFloor: true
+
+# If throwables should bounce off the walls
+bouncesOffWalls: true
+
+# If throwables should bounce off the ceiling
+bouncesOffCeiling: true
+
+# If eggs should hatch chickens
+# false: eggs will never hatch chickens when a player throws the egg
+# true: eggs might hatch a chicken when a player throws the egg
+# This does not affect eggs thrown by dispensers
+chickenInEgg: false
+
+# The items that should bounce
+# Options are
+#     - snowball
+#     - egg
+#     - xp_bottle
+#     - potion
+#     - arrow
+#     - endereye
+#     - firework
+#     - trident
+#     - fireball
+bounceables:
+  - snowball
+  - egg
+  - xp_bottle
+  - potion
+  - arrow
+  - endereye
+  - firework
+  - trident
+  - fireball
